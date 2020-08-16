@@ -41,10 +41,7 @@ class App extends React.Component {
           <span id='header'>Breaking Bad Quotes</span>
           <small>
             [<a href='https://github.com/timbiles/Breaking-Bad--API/'>API</a>] [
-            <a href='https://github.com/vimturtle/FCC3.1-Random-Quote-Generator'>
-              GITHUB
-            </a>
-            ]
+            <a href='https://github.com/vimturtle/'>GITHUB</a>]
           </small>
           <FontAwesomeIcon icon={faQuoteLeft} />
           <p id='text'>{quote}</p>
